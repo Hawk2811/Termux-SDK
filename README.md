@@ -1,5 +1,4 @@
 # This Project Has Been Discontinued
-# I am no longer developing for Android or Termux platforms
 
 # Termux-SDK
 Set of Scripts to Compile C/C++ for Termux Using Android NDK and LLVM
